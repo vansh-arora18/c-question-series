@@ -19,4 +19,6 @@ int main()
         printf("number is abundant");
     else
         printf("number is not abundant");
+    
+    return 0;
 }
